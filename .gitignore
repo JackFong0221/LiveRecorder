@@ -177,3 +177,4 @@ backup_config/
 ffmpeg.exe
 ffplay.exe
 ffprobe.exe
+.DS_Store
